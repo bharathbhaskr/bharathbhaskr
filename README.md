@@ -19,7 +19,7 @@ Computer Science student at Northeastern University
 <img src="https://raw.githubusercontent.com/bharathbhaskr/bharathbhaskr/refs/heads/main/output/snake.svg" alt="Snake animation" />
 
 - 💬 Ask me about Web Design, Cloud, DevOps and Data Engineering
-- 
+  
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathbhaskar99)
