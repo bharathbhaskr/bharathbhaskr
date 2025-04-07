@@ -7,17 +7,19 @@ Computer Science student at Northeastern University
 - 🎓 Master of Science in Information Systems (Expected Apr 2025)
 - 💼 Previously Software Development Engineer at Mphasis Ltd.
 - 🌟 Specializing in Cloud Computing, DevOps, and Data Science
+- 
+![](https://komarev.com/ghpvc/?username=bharathbhaskr&color=blueviolet)
+<br/>
+<a href="https://github.com/bharathbhaskr">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bharathbhaskr&theme=neon"/>
+</a>
+<a href="https://github.com/bharathbhaskr">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbhaskr&langs_count=8&theme=neon&layout=compact" />
+</a>
+<img src="https://raw.githubusercontent.com/bharathbhaskr/bharathbhaskr/refs/heads/main/output/snake.svg" alt="Snake animation" />
 
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+- 💬 Ask me about Web Design, Cloud, DevOps and Data Engineering
+- 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathbhaskar99)
