@@ -4,7 +4,7 @@ Computer Science student at Northeastern University
 
 - 📍 I'm based in Boston, MA
 - 📧 You can contact me at bhaskar.bh@northeastern.edu
-- 🎓 Master of Science in Information Systems (Expected Apr 2025)
+- 🎓 Master of Science
 - 🌟 Specializing in Cloud Computing, DevOps, and Data Science
 - 
 ![](https://komarev.com/ghpvc/?username=bharathbhaskr&color=blueviolet)
@@ -22,8 +22,7 @@ Computer Science student at Northeastern University
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathbhaskar99)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharathbhaskr)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bharathbhaskr.github.io)
+
 
 ## Key Highlights
 
